@@ -132,6 +132,9 @@ button:hover {
   body {
     padding: 0 32px;
   }
+  header {
+    margin-top: 120px;
+  }
   main {
     width: min(100%, 400px);
   }
